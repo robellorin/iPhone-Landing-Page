@@ -202,7 +202,7 @@ const PricingSection = () => {
         <Details>
           <SubTitle>iPhone</SubTitle>
           <Title>14 Pro Max</Title>
-          <SubTitle>From ₹129900.00* before trade‑in</SubTitle>
+          <SubTitle>From $1,538 * before trade‑in</SubTitle>
           <ButtonContainer>
             <Btn>Buy</Btn>
             <BtnLink href="#">Learn More &#x2192;</BtnLink>
